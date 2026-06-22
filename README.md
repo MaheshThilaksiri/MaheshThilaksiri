@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Mahesh Thilaksiri
 
-<!--
-**MaheshThilaksiri/MaheshThilaksiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Networks Undergraduate | Networking & Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
+🎓 Computer Networks Undergraduate at NSBM Green University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Passionate about Networking, Cybersecurity, and Software Development
+
+🛠️ Skills
+- Cisco Packet Tracer
+- Wireshark
+- Java
+- Python
+- Spring Boot
+- React.js
+- SQL Server
+- MySQL
+- Git & GitHub
+
+📂 Projects
+- Education Management System
+- Enterprise Campus Network Design
+- Social Media Platform
+- Student Database Management System
+
+📫 Contact
+- Email: maheshthilaksiri077@gmail.com
+- LinkedIn: linkedin.com/in/mahesh-thilaksiri
+
+⭐ Open to Internship Opportunities
